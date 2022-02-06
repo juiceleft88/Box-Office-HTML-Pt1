@@ -1,4 +1,20 @@
 #topMenu{
     background-color:black;
-    color:white
+    color:white;
+    font-size: small;
+    text-align: right;
+}
+
+#csula{
+    font-size: large;
+}
+
+#csulaimg{
+    vertical-align: middle;
+}
+
+#midMenu{
+    background-color:gold;
+    text-align: left;
+    text-transform: uppercase;
 }
